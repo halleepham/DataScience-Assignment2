@@ -1,6 +1,6 @@
 Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine_Displacement,Engine_Horsepower,Seats,Price,Fuel_Type_Diesel,Fuel_Type_Electric,Fuel_Type_Petrol,Transmission_Automatic,Transmission_Manual,Car_Age,Engine_Efficiency
 Hyundai Creta 1.6 CRDi SX Option,Pune,2015,41000,First,19.67,1582,126.2,5,12.5,1,0,0,0,1,11,0.0798
-Honda Jazz V,Chennai,2011,46000,First,13.0,1199,88.7,5,4.5,0,0,1,0,1,15,0.074
+Honda Jazz V,Chennai,2011,46000,First,18.2,1199,88.7,5,4.5,0,0,1,0,1,15,0.074
 Maruti Ertiga VDI,Chennai,2012,87000,First,20.77,1248,88.76,7,6.0,1,0,0,0,1,14,0.0711
 Audi A4 New 2.0 TDI Multitronic,Coimbatore,2013,40670,Second,15.2,1968,140.8,5,17.74,1,0,0,1,0,13,0.0715
 Nissan Micra Diesel XV,Jaipur,2013,86999,First,23.08,1461,63.1,5,3.5,1,0,0,0,1,13,0.0432
@@ -11,7 +11,7 @@ Maruti Ciaz Zeta,Kochi,2018,25692,First,21.56,1462,103.25,5,9.95,0,0,1,0,1,8,0.0
 Honda City 1.5 V AT Sunroof,Kolkata,2012,60000,First,16.8,1497,116.3,5,4.49,0,0,1,1,0,14,0.0777
 Maruti Swift VDI BSIV,Jaipur,2015,64424,First,25.2,1248,74.0,5,5.6,1,0,0,0,1,11,0.0593
 Land Rover Range Rover 2.2L Pure,Delhi,2014,72000,First,12.7,2179,187.7,5,27.0,1,0,0,1,0,12,0.0861
-Land Rover Freelander 2 TD4 SE,Pune,2012,85000,Second,0.0,2179,115.0,5,17.5,1,0,0,1,0,14,0.0528
+Land Rover Freelander 2 TD4 SE,Pune,2012,85000,Second,18.286304565030147,2179,115.0,5,17.5,1,0,0,1,0,14,0.0528
 Mitsubishi Pajero Sport 4X4,Delhi,2014,110000,First,13.5,2477,175.56,7,15.0,1,0,0,0,1,12,0.0709
 Honda Amaze S i-Dtech,Kochi,2016,58950,First,25.8,1498,98.6,5,5.4,1,0,0,0,1,10,0.0658
 Maruti Swift DDiS VDI,Jaipur,2017,25000,First,28.4,1248,74.0,5,5.99,1,0,0,0,1,9,0.0593
@@ -23,7 +23,7 @@ Audi A6 2011-2015 35 TFSI Technology,Mumbai,2015,55985,First,13.53,1984,177.01,5
 Hyundai i20 1.2 Magna,Kolkata,2010,45807,First,18.5,1197,80.0,5,1.87,0,0,1,0,1,16,0.0668
 Volkswagen Vento Petrol Highline AT,Kolkata,2010,33000,First,14.4,1598,103.6,5,2.85,0,0,1,1,0,16,0.0648
 Honda City Corporate Edition,Mumbai,2012,51920,First,16.8,1497,116.3,5,4.25,0,0,1,0,1,14,0.0777
-Nissan Micra Diesel XV,Hyderabad,2012,54000,First,16.48,1461,63.1,5,4.25,1,0,0,0,1,14,0.0432
+Nissan Micra Diesel XV,Hyderabad,2012,54000,First,23.072,1461,63.1,5,4.25,1,0,0,0,1,14,0.0432
 Maruti Alto K10 2010-2014 VXI,Hyderabad,2013,54000,Second,20.92,998,67.1,5,2.75,0,0,1,0,1,13,0.0672
 Honda WRV i-VTEC VX,Kochi,2018,37430,First,17.5,1199,88.7,5,9.9,0,0,1,0,1,8,0.074
 Toyota Innova 2.5 V Diesel 7-seater,Mumbai,2007,262000,Fourth & Above,12.8,2494,102.0,7,4.0,1,0,0,0,1,19,0.0409
@@ -55,7 +55,7 @@ Hyundai Grand i10 Sportz,Chennai,2015,54000,Third,18.9,1197,82.0,5,3.6,0,0,1,0,1
 Volkswagen Vento 2013-2015 1.6 Comfortline,Kolkata,2015,39000,First,15.04,1598,103.2,5,3.99,0,0,1,0,1,11,0.0646
 Renault KWID RXT,Kochi,2017,16542,First,25.17,799,53.3,5,3.3,0,0,1,0,1,9,0.0667
 Hyundai i10 Asta,Kolkata,2010,32000,First,20.36,1197,78.9,5,2.07,0,0,1,0,1,16,0.0659
-Nissan X-Trail SLX AT,Hyderabad,2010,121812,First,9.49,1995,147.6,5,7.75,1,0,0,1,0,16,0.074
+Nissan X-Trail SLX AT,Hyderabad,2010,121812,First,13.286,1995,147.6,5,7.75,1,0,0,1,0,16,0.074
 Maruti Zen Estilo VXI BSIII,Hyderabad,2010,39300,First,18.2,998,67.1,5,2.25,0,0,1,0,1,16,0.0672
 Toyota Innova Crysta 2.4 GX MT 8S,Mumbai,2017,22000,First,13.68,2393,147.8,8,16.5,1,0,0,0,1,9,0.0618
 Ford Figo Diesel Titanium,Bangalore,2010,72000,First,20.0,1399,68.0,5,2.75,1,0,0,0,1,16,0.0486
@@ -64,7 +64,7 @@ Mercedes-Benz New C-Class 200 CDI Classic,Pune,2011,65000,Second,15.8,2148,170.0
 Tata Indica V2 eLS,Chennai,2016,178000,First,25.0,1396,69.0,5,2.5,1,0,0,0,1,10,0.0494
 Audi A4 2.0 TDI Multitronic,Jaipur,2012,65664,First,16.55,1968,140.0,5,13.5,1,0,0,1,0,14,0.0711
 Honda City ZX CVT,Mumbai,2007,63000,Second,16.4,1497,78.0,5,1.85,0,0,1,1,0,19,0.0521
-Mercedes-Benz C-Class Progressive C 220d,Coimbatore,2019,15369,First,0.0,1950,194.0,5,35.67,1,0,0,1,0,7,0.0995
+Mercedes-Benz C-Class Progressive C 220d,Coimbatore,2019,15369,First,18.286304565030147,1950,194.0,5,35.67,1,0,0,1,0,7,0.0995
 Maruti Ertiga SHVS VDI,Pune,2016,63000,First,24.52,1248,88.5,7,8.15,1,0,0,0,1,10,0.0709
 Hyundai Creta 1.4 E Plus Diesel,Mumbai,2018,13000,First,22.1,1396,88.7,5,10.5,1,0,0,0,1,8,0.0635
 Porsche Cayenne 2009-2014 Turbo,Mumbai,2008,73000,First,8.5,4806,500.0,5,14.5,0,0,1,1,0,18,0.104
@@ -185,7 +185,7 @@ Mahindra Scorpio 1.99 S10 4WD,Kochi,2016,56739,First,15.4,1997,120.0,7,10.31,1,0
 Land Rover Range Rover 2.2L Dynamic,Coimbatore,2018,36091,First,12.7,2179,187.7,5,55.76,1,0,0,1,0,8,0.0861
 Ford Figo Diesel ZXI,Chennai,2010,120000,First,20.0,1399,68.0,5,2.6,1,0,0,0,1,16,0.0486
 Maruti Ertiga ZDI,Mumbai,2016,33000,First,25.47,1248,88.5,7,8.5,1,0,0,0,1,10,0.0709
-Honda City 1.5 GXI,Ahmedabad,2007,60006,First,0.0,1497,98.6,5,2.95,0,0,1,0,1,19,0.0659
+Honda City 1.5 GXI,Ahmedabad,2007,60006,First,18.286304565030147,1497,98.6,5,2.95,0,0,1,0,1,19,0.0659
 Honda Amaze S i-Dtech,Kolkata,2014,52000,First,25.8,1498,98.6,5,3.5,1,0,0,0,1,12,0.0658
 Hyundai i10 Magna,Jaipur,2015,43571,First,20.36,1197,78.9,5,3.55,0,0,1,0,1,11,0.0659
 Honda Amaze S i-Dtech,Kolkata,2013,50000,First,25.8,1498,98.6,5,3.25,1,0,0,0,1,13,0.0658
@@ -219,7 +219,7 @@ Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,29161,Firs
 Maruti Wagon R VXI,Kolkata,2013,32000,First,22.5,998,67.04,5,2.65,0,0,1,0,1,13,0.0672
 Nissan Terrano XV Premium 110 PS Anniversary Edition,Coimbatore,2015,46173,Second,19.01,1461,108.5,5,8.92,1,0,0,0,1,11,0.0743
 Mini Cooper Convertible S,Kochi,2017,26327,First,16.82,1998,189.08,4,35.67,0,0,1,1,0,9,0.0946
-Ford Figo Diesel,Bangalore,2015,70436,First,0.0,1498,99.0,5,3.6,1,0,0,0,1,11,0.0661
+Ford Figo Diesel,Bangalore,2015,70436,First,18.286304565030147,1498,99.0,5,3.6,1,0,0,0,1,11,0.0661
 Tata Indica V2 DLS BSII,Jaipur,2007,200000,Second,17.2,1396,53.5,5,0.85,1,0,0,0,1,19,0.0383
 Chevrolet Beat LT,Kochi,2016,60813,Second,18.6,1199,76.8,5,3.32,0,0,1,0,1,10,0.0641
 Volkswagen Polo Diesel Comfortline 1.2L,Mumbai,2012,45000,First,22.07,1199,73.9,5,3.6,1,0,0,0,1,14,0.0616
@@ -523,7 +523,7 @@ Toyota Fortuner 4x2 Manual,Delhi,2012,109000,First,13.0,2982,168.5,7,13.25,1,0,0
 Honda Amaze VX O i VTEC,Mumbai,2016,9000,First,18.0,1198,86.7,5,5.75,0,0,1,0,1,10,0.0724
 Hyundai i20 Asta 1.4 CRDi,Delhi,2014,43900,First,22.54,1396,88.73,5,6.75,1,0,0,0,1,12,0.0636
 Chevrolet Enjoy TCDi LTZ 7 Seater,Bangalore,2013,64000,Second,18.2,1248,73.8,7,4.85,1,0,0,0,1,13,0.0591
-Mercedes-Benz New C-Class Progressive C 200,Kochi,2019,13190,First,0.0,1950,181.43,5,38.99,0,0,1,1,0,7,0.093
+Mercedes-Benz New C-Class Progressive C 200,Kochi,2019,13190,First,18.286304565030147,1950,181.43,5,38.99,0,0,1,1,0,7,0.093
 Maruti SX4 ZXI AT Leather,Mumbai,2009,77652,First,12.6,1586,103.2,5,2.85,0,0,1,1,0,17,0.0651
 Toyota Innova 2.5 VX (Diesel) 7 Seater,Mumbai,2012,55000,First,12.99,2494,100.0,7,9.51,1,0,0,0,1,14,0.0401
 BMW 5 Series 2003-2012 520d,Ahmedabad,2012,59900,Second,18.48,1995,177.0,5,18.5,1,0,0,1,0,14,0.0887
@@ -682,7 +682,7 @@ Ford Endeavour 3.2 Trend AT 4X4,Coimbatore,2017,50484,First,10.91,3198,197.2,7,3
 Audi Q5 2008-2012 2.0 TDI,Kochi,2013,13452,First,12.8,1968,167.6,5,25.46,1,0,0,1,0,13,0.0852
 Hyundai Verna 1.6 VTVT,Kochi,2017,37688,First,17.01,1591,121.3,5,7.88,0,0,1,0,1,9,0.0762
 Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Chennai,2017,34000,First,13.0,2143,204.0,5,36.0,1,0,0,1,0,9,0.0952
-Mercedes-Benz M-Class ML 350 4Matic,Pune,2014,120000,First,0.0,2987,165.0,5,30.0,1,0,0,1,0,12,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Pune,2014,120000,First,18.286304565030147,2987,165.0,5,30.0,1,0,0,1,0,12,0.0552
 Maruti Swift Dzire ZXi,Pune,2008,64000,Second,17.5,1298,85.8,5,2.85,0,0,1,0,1,18,0.0661
 Honda City 1.3 EXI S,Delhi,2011,100000,First,13.0,1343,90.0,5,3.5,0,0,1,0,1,15,0.067
 Renault Duster 85PS Diesel RxL Optional,Jaipur,2014,75000,First,20.46,1461,83.8,5,7.5,1,0,0,0,1,12,0.0574
@@ -722,7 +722,7 @@ Volkswagen Vento Petrol Highline,Kochi,2012,121377,First,15.04,1598,103.6,5,3.8,
 Volkswagen Jetta 2007-2011 1.9 Highline TDI,Chennai,2009,100970,First,15.5,1896,105.0,5,4.0,1,0,0,1,0,17,0.0554
 Mini Cooper 5 DOOR D,Hyderabad,2014,60000,Second,20.7,1496,113.98,5,23.5,1,0,0,1,0,12,0.0762
 Tata Indica V2 DLS,Chennai,2008,77650,First,17.2,1396,53.5,5,1.15,1,0,0,0,1,18,0.0383
-Land Rover Range Rover 3.0 D,Mumbai,2008,55001,Second,0.0,1497,98.6,5,26.5,1,0,0,1,0,18,0.0659
+Land Rover Range Rover 3.0 D,Mumbai,2008,55001,Second,18.286304565030147,1497,98.6,5,26.5,1,0,0,1,0,18,0.0659
 Honda City i-VTEC CVT VX,Bangalore,2015,18955,First,18.0,1497,117.3,5,10.65,0,0,1,1,0,11,0.0784
 Jaguar XF 2.2 Litre Luxury,Coimbatore,2016,47877,First,16.36,2179,187.7,5,35.68,1,0,0,1,0,10,0.0861
 Mercedes-Benz E-Class 2015-2017 E250 Edition E,Kochi,2017,43368,First,15.0,2143,204.0,5,31.94,1,0,0,1,0,9,0.0952
@@ -928,7 +928,7 @@ Hyundai Xcent 1.2 Kappa Base,Kochi,2016,48163,First,19.1,1197,82.0,5,4.85,0,0,1,
 Hyundai Grand i10 AT Asta,Coimbatore,2017,19168,First,18.9,1197,82.0,5,6.93,0,0,1,1,0,9,0.0685
 Maruti Alto 800 VXI,Kolkata,2016,26000,First,22.74,796,47.3,5,2.6,0,0,1,0,1,10,0.0594
 Chevrolet Sail Hatchback 1.2 LS,Kolkata,2014,37400,First,18.2,1199,82.5,5,1.89,0,0,1,0,1,12,0.0688
-Mercedes-Benz C-Class Progressive C 220d,Mumbai,2018,8682,First,0.0,1950,194.0,5,39.5,1,0,0,1,0,8,0.0995
+Mercedes-Benz C-Class Progressive C 220d,Mumbai,2018,8682,First,18.286304565030147,1950,194.0,5,39.5,1,0,0,1,0,8,0.0995
 Skoda Superb Elegance 1.8 TSI AT,Mumbai,2012,95000,First,13.7,1798,157.75,5,10.0,0,0,1,1,0,14,0.0877
 Audi A4 2.0 TDI,Kolkata,2009,34000,First,16.55,1968,147.51,5,9.95,1,0,0,1,0,17,0.075
 Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Mumbai,2014,95000,Second,12.8,2494,102.0,8,9.45,1,0,0,0,1,12,0.0409
@@ -961,7 +961,7 @@ Maruti Swift VXI BSIV,Mumbai,2016,9107,First,20.4,1197,81.8,5,5.15,0,0,1,0,1,10,
 Mercedes-Benz New C-Class C 220 CDI Avantgarde,Kochi,2015,63983,First,19.27,2143,170.0,5,16.56,1,0,0,1,0,11,0.0793
 Maruti Wagon R VXI Minor,Chennai,2010,134000,Second,18.9,1061,67.0,5,1.65,0,0,1,0,1,16,0.0631
 Mercedes-Benz A Class A180 Sport,Pune,2015,11000,First,15.5,1595,120.7,5,16.0,0,0,1,1,0,11,0.0757
-Hyundai Santro Xing GL,Pune,2008,93000,First,0.0,1086,62.0,5,1.45,0,0,1,0,1,18,0.0571
+Hyundai Santro Xing GL,Pune,2008,93000,First,18.286304565030147,1086,62.0,5,1.45,0,0,1,0,1,18,0.0571
 Maruti Swift Dzire AMT ZDI,Coimbatore,2017,24852,First,26.59,1248,74.0,5,8.08,1,0,0,1,0,9,0.0593
 Hyundai Grand i10 AT Asta,Pune,2014,37632,First,18.9,1197,82.0,5,4.5,0,0,1,1,0,12,0.0685
 Nissan Sunny 2011-2014 XV Special Edition,Chennai,2013,55000,Second,16.95,1498,97.7,5,4.3,0,0,1,0,1,13,0.0652
@@ -1024,7 +1024,7 @@ Maruti Swift Dzire LDI,Delhi,2014,68462,First,26.59,1248,74.0,5,4.15,1,0,0,0,1,1
 Maruti S-Cross Zeta DDiS 200 SH,Coimbatore,2016,74611,First,25.1,1248,88.5,5,7.94,1,0,0,0,1,10,0.0709
 Renault Duster 110PS Diesel RxZ Pack,Pune,2014,90000,First,19.01,1461,108.45,5,7.25,1,0,0,0,1,12,0.0742
 Maruti Wagon R VXI,Delhi,2016,22000,First,18.9,998,67.1,5,3.7,0,0,1,0,1,10,0.0672
-Hyundai Santro Xing GL,Hyderabad,2010,58163,First,0.0,1086,62.0,5,2.45,0,0,1,0,1,16,0.0571
+Hyundai Santro Xing GL,Hyderabad,2010,58163,First,18.286304565030147,1086,62.0,5,2.45,0,0,1,0,1,16,0.0571
 Chevrolet Beat Diesel LT,Chennai,2011,109500,Third,25.44,936,57.6,5,1.5,1,0,0,0,1,15,0.0615
 Mahindra XUV500 W4 1.99 mHawk,Delhi,2017,13363,First,16.0,1997,140.0,7,12.0,1,0,0,0,1,9,0.0701
 Hyundai i10 Era 1.1,Delhi,2012,51000,Second,19.81,1086,68.05,5,2.2,0,0,1,0,1,14,0.0627
@@ -1219,7 +1219,7 @@ Maruti Swift ZDi,Hyderabad,2016,55746,First,22.9,1248,74.0,5,6.95,1,0,0,0,1,10,0
 Hyundai Xcent 1.2 VTVT S,Bangalore,2014,54000,First,20.14,1197,81.86,5,5.5,0,0,1,0,1,12,0.0684
 Mahindra XUV500 W8 2WD,Kolkata,2013,43000,First,16.0,2179,140.0,7,7.0,1,0,0,0,1,13,0.0642
 Mercedes-Benz E-Class E250 CDI Avantgrade,Delhi,2014,40000,First,13.0,2143,201.1,5,24.0,1,0,0,1,0,12,0.0938
-Land Rover Freelander 2 TD4 S,Bangalore,2010,125000,Second,0.0,2179,115.0,5,11.0,1,0,0,1,0,16,0.0528
+Land Rover Freelander 2 TD4 S,Bangalore,2010,125000,Second,18.286304565030147,2179,115.0,5,11.0,1,0,0,1,0,16,0.0528
 Mercedes-Benz New C-Class C 220 CDI Avantgarde,Bangalore,2016,51944,First,19.27,2143,170.0,5,32.5,1,0,0,1,0,10,0.0793
 Hyundai i20 Asta 1.4 CRDi,Kochi,2015,46950,First,21.27,1396,88.76,5,6.45,1,0,0,0,1,11,0.0636
 Skoda Octavia Elegance 2.0 TDI AT,Mumbai,2015,23000,First,19.3,1968,141.0,5,15.75,1,0,0,1,0,11,0.0716
@@ -1266,7 +1266,7 @@ Hyundai i20 Magna Optional 1.2,Delhi,2013,63777,First,18.5,1197,82.9,5,3.67,0,0,
 BMW X1 M Sport sDrive 20d,Mumbai,2016,31000,First,17.05,1995,190.0,5,29.5,1,0,0,1,0,10,0.0952
 Toyota Etios G,Delhi,2012,60000,First,17.6,1496,88.73,5,3.1,0,0,1,0,1,14,0.0593
 Tata Indigo LX,Ahmedabad,2015,78008,First,17.0,1405,70.0,5,2.9,1,0,0,0,1,11,0.0498
-Mercedes-Benz M-Class ML 350 4Matic,Bangalore,2014,33000,Second,0.0,2987,165.0,5,43.0,1,0,0,1,0,12,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Bangalore,2014,33000,Second,18.286304565030147,2987,165.0,5,43.0,1,0,0,1,0,12,0.0552
 Volkswagen Beetle 2.0,Mumbai,2009,27078,First,10.98,1984,114.4,4,15.95,0,0,1,1,0,17,0.0577
 Volkswagen Polo GT TDI,Hyderabad,2011,57275,First,19.7,1598,103.6,5,4.5,1,0,0,0,1,15,0.0648
 Hyundai Grand i10 CRDi Magna,Delhi,2014,45000,First,24.0,1120,70.0,5,3.49,1,0,0,0,1,12,0.0625
@@ -1308,7 +1308,7 @@ Maruti SX4 Zxi BSIII,Chennai,2007,62493,First,15.0,1586,104.68,5,1.8,0,0,1,0,1,1
 Maruti Ciaz VXi Plus,Kochi,2015,44620,First,20.73,1373,91.1,5,6.93,0,0,1,0,1,11,0.0664
 Land Rover Range Rover 3.6 TDV8 Vogue SE Diesel,Bangalore,2012,66538,First,10.2,4367,308.0,7,70.0,1,0,0,1,0,14,0.0705
 Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Ahmedabad,2013,60000,First,12.99,2494,100.0,7,7.9,1,0,0,0,1,13,0.0401
-Hyundai Santro Xing GL,Kochi,2011,20842,First,0.0,1086,62.0,5,2.78,0,0,1,0,1,15,0.0571
+Hyundai Santro Xing GL,Kochi,2011,20842,First,18.286304565030147,1086,62.0,5,2.78,0,0,1,0,1,15,0.0571
 Hyundai Santa Fe 4WD AT,Chennai,2014,110000,First,13.01,2199,194.3,7,14.4,1,0,0,1,0,12,0.0884
 Mercedes-Benz New C-Class C250 Avantgarde,Mumbai,2011,45000,Second,11.74,1796,186.0,5,13.5,0,0,1,1,0,15,0.1036
 Maruti Alto LXi,Coimbatore,2012,49008,First,19.7,796,46.3,5,2.88,0,0,1,0,1,14,0.0582
@@ -1338,7 +1338,7 @@ Renault Duster 110PS Diesel RxZ AMT,Bangalore,2016,45000,First,19.6,1461,108.45,
 Maruti Wagon R LXI Minor,Pune,2009,120000,First,18.9,998,67.1,5,1.69,0,0,1,0,1,17,0.0672
 Hyundai Getz 1.5 CRDi GVS,Jaipur,2009,97359,Second,17.1,1493,110.0,5,1.8,1,0,0,0,1,17,0.0737
 Maruti Ritz LXi,Mumbai,2016,62000,First,18.5,1197,85.8,5,3.2,0,0,1,0,1,10,0.0717
-Honda City 1.5 GXI,Pune,2004,115000,Second,0.0,1497,98.6,5,1.5,0,0,1,0,1,22,0.0659
+Honda City 1.5 GXI,Pune,2004,115000,Second,18.286304565030147,1497,98.6,5,1.5,0,0,1,0,1,22,0.0659
 BMW 5 Series 520d Sport Line,Kochi,2019,18373,First,22.48,1995,187.74,5,45.86,1,0,0,1,0,7,0.0941
 Volkswagen Polo 1.2 MPI Highline,Hyderabad,2016,60453,First,16.47,1198,74.0,5,5.1,0,0,1,0,1,10,0.0618
 Ford Figo Petrol ZXI,Mumbai,2010,69009,Second,15.6,1196,70.0,5,2.4,0,0,1,0,1,16,0.0585
@@ -1411,7 +1411,7 @@ Maruti A-Star Vxi,Pune,2011,70000,First,19.0,998,66.1,5,2.0,0,0,1,0,1,15,0.0662
 Nissan Micra Diesel XV Premium,Kolkata,2012,32048,First,23.08,1461,63.1,5,2.4,1,0,0,0,1,14,0.0432
 Tata Nano LX,Pune,2013,4700,First,25.4,624,37.48,4,1.2,0,0,1,0,1,13,0.0601
 Maruti Swift Dzire Tour LDI,Delhi,2014,71800,First,23.4,1248,74.0,5,2.9,1,0,0,0,1,12,0.0593
-Land Rover Range Rover Sport 2005 2012 Sport,Coimbatore,2008,69078,First,0.0,1497,98.6,5,40.88,0,0,1,0,1,18,0.0659
+Land Rover Range Rover Sport 2005 2012 Sport,Coimbatore,2008,69078,First,18.286304565030147,1497,98.6,5,40.88,0,0,1,0,1,18,0.0659
 Audi Q3 2.0 TDI Quattro,Ahmedabad,2016,45000,First,17.32,1968,184.0,5,27.0,1,0,0,1,0,10,0.0935
 Honda Amaze VX i-DTEC,Chennai,2016,15388,First,25.8,1498,98.6,5,7.5,1,0,0,0,1,10,0.0658
 Chevrolet Optra 1.6 LS,Mumbai,2004,98798,First,14.7,1599,104.0,5,1.5,0,0,1,0,1,22,0.065
@@ -1710,7 +1710,7 @@ Maruti Ertiga ZDI,Mumbai,2012,88000,First,20.77,1248,88.8,7,5.85,1,0,0,0,1,14,0.
 Hyundai Grand i10 Magna,Jaipur,2014,42355,First,18.9,1197,82.0,5,4.0,0,0,1,0,1,12,0.0685
 BMW 3 Series 330i,Coimbatore,2011,75871,First,9.43,2996,254.0,5,14.12,0,0,1,1,0,15,0.0848
 Chevrolet Cruze LTZ,Mumbai,2011,65000,First,17.9,1998,163.7,5,4.55,1,0,0,0,1,15,0.0819
-Mercedes-Benz M-Class ML 350 4Matic,Pune,2015,69000,First,0.0,2987,165.0,5,38.0,1,0,0,1,0,11,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Pune,2015,69000,First,18.286304565030147,2987,165.0,5,38.0,1,0,0,1,0,11,0.0552
 Maruti Ritz LDi,Jaipur,2011,79232,First,21.1,1248,73.9,5,2.9,1,0,0,0,1,15,0.0592
 Mercedes-Benz New C-Class C 200 Kompressor Elegance AT,Pune,2007,220000,Second,11.74,1796,186.0,5,6.0,0,0,1,1,0,19,0.1036
 Hyundai i20 1.2 Magna Executive,Kochi,2016,28470,First,18.6,1197,81.83,5,6.95,0,0,1,0,1,10,0.0684
@@ -2035,7 +2035,7 @@ Ford Figo Diesel ZXI,Hyderabad,2013,71336,First,20.0,1399,68.0,5,4.1,1,0,0,0,1,1
 Toyota Innova 2.5 V Diesel 7-seater,Chennai,2006,196000,First,12.8,2494,102.0,7,6.25,1,0,0,0,1,20,0.0409
 Maruti Dzire VDI,Kolkata,2015,28193,First,28.4,1248,73.75,5,5.25,1,0,0,0,1,11,0.0591
 Mercedes-Benz SLC 43 AMG,Coimbatore,2019,2526,First,19.0,2996,362.07,2,83.96,0,0,1,1,0,7,0.1209
-Hyundai Santro LP zipPlus,Coimbatore,2004,52146,First,0.0,1497,98.6,5,1.93,0,0,1,0,1,22,0.0659
+Hyundai Santro LP zipPlus,Coimbatore,2004,52146,First,18.286304565030147,1497,98.6,5,1.93,0,0,1,0,1,22,0.0659
 Mercedes-Benz E-Class E 220 d,Hyderabad,2013,85000,First,16.1,1950,194.0,5,21.0,1,0,0,1,0,13,0.0995
 Hyundai Grand i10 1.2 Kappa Sportz,Ahmedabad,2015,20780,First,18.9,1197,81.86,5,4.3,0,0,1,0,1,11,0.0684
 Honda Mobilio S i VTEC,Mumbai,2014,43081,First,17.3,1497,117.3,7,5.25,0,0,1,0,1,12,0.0784
@@ -2458,7 +2458,7 @@ Maruti Wagon R LXI,Jaipur,2006,145000,First,18.9,998,67.1,5,1.15,0,0,1,0,1,20,0.
 Honda City i DTEC VX Option,Pune,2014,71000,First,25.1,1498,98.6,5,7.45,1,0,0,0,1,12,0.0658
 Hyundai EON Magna Plus,Jaipur,2017,12000,First,21.1,814,55.2,5,3.5,0,0,1,0,1,9,0.0678
 Mercedes-Benz E-Class 2015-2017 E350 CDI Avantgrade,Kochi,2018,21603,First,13.0,2987,265.0,5,70.15,1,0,0,1,0,8,0.0887
-Hyundai Santro GLS II - Euro II,Bangalore,2011,65000,Second,0.0,1497,98.6,5,3.15,0,0,1,0,1,15,0.0659
+Hyundai Santro GLS II - Euro II,Bangalore,2011,65000,Second,18.286304565030147,1497,98.6,5,3.15,0,0,1,0,1,15,0.0659
 BMW 3 Series 320d,Hyderabad,2013,58000,First,13.2,1995,170.0,5,19.5,1,0,0,1,0,13,0.0852
 BMW 3 Series 318i Sedan,Pune,2012,39000,Second,12.05,1995,154.0,5,15.0,0,0,1,1,0,14,0.0772
 Mahindra NuvoSport N8,Coimbatore,2017,37712,First,17.45,1493,100.0,7,7.57,1,0,0,0,1,9,0.067
@@ -2592,7 +2592,7 @@ Maruti A-Star Lxi,Hyderabad,2009,61964,First,19.0,998,66.1,5,2.25,0,0,1,0,1,17,0
 Maruti Wagon R LXI,Kochi,2011,15466,First,22.5,998,67.04,5,3.36,0,0,1,0,1,15,0.0672
 Honda Mobilio E i VTEC,Kolkata,2014,23000,First,17.3,1497,117.3,7,4.25,0,0,1,0,1,12,0.0784
 Hyundai i10 Magna,Coimbatore,2012,43766,First,20.36,1197,78.9,5,4.3,0,0,1,0,1,14,0.0659
-Skoda Superb 3.6 V6 FSI,Hyderabad,2010,54000,First,0.0,3597,262.6,5,6.0,0,0,1,1,0,16,0.073
+Skoda Superb 3.6 V6 FSI,Hyderabad,2010,54000,First,18.286304565030147,3597,262.6,5,6.0,0,0,1,1,0,16,0.073
 Hyundai i20 1.4 Sportz,Coimbatore,2018,18521,First,22.54,1396,88.73,5,9.18,1,0,0,0,1,8,0.0636
 Maruti Celerio ZXI Optional,Hyderabad,2017,26400,First,23.1,998,67.04,5,4.99,0,0,1,0,1,9,0.0672
 Skoda Laura 1.8 TSI Ambiente,Pune,2011,31900,First,13.4,1798,157.8,5,3.75,0,0,1,0,1,15,0.0878
@@ -2690,7 +2690,7 @@ Maruti Swift Dzire VDI,Ahmedabad,2017,26000,First,26.59,1248,74.0,5,7.5,1,0,0,0,
 Honda City 1.5 V MT Exclusive,Pune,2012,45496,First,17.0,1497,118.0,5,4.75,0,0,1,0,1,14,0.0788
 Mahindra Ssangyong Rexton RX7,Pune,2013,76000,Second,11.18,2696,184.0,7,8.79,1,0,0,1,0,13,0.0682
 Skoda Superb Elegance 1.8 TSI MT,Pune,2014,136000,First,13.1,1798,157.75,5,9.5,0,0,1,0,1,12,0.0877
-Hyundai Santro GLS II - Euro II,Pune,2009,100000,First,0.0,1497,98.6,5,1.6,0,0,1,0,1,17,0.0659
+Hyundai Santro GLS II - Euro II,Pune,2009,100000,First,18.286304565030147,1497,98.6,5,1.6,0,0,1,0,1,17,0.0659
 Maruti Alto LXi,Kolkata,2010,38127,First,19.7,796,46.3,5,1.55,0,0,1,0,1,16,0.0582
 Hyundai i20 Asta (o) 1.4 CRDi (Diesel),Jaipur,2014,82450,First,23.0,1396,90.0,5,5.85,1,0,0,0,1,12,0.0645
 Ford Ecosport 1.5 Ti VCT MT Trend,Coimbatore,2014,62497,First,15.8,1499,110.0,5,7.52,0,0,1,0,1,12,0.0734
@@ -2752,7 +2752,7 @@ Audi Q7 35 TDI Quattro Premium Plus,Kochi,2016,72132,Second,12.07,2967,241.4,7,3
 BMW 5 Series 2003-2012 520d,Hyderabad,2009,79000,First,18.48,1995,177.0,5,15.0,1,0,0,1,0,17,0.0887
 Hyundai Verna 1.6 SX VTVT (O),Coimbatore,2013,66930,First,17.1,1591,121.3,5,6.15,0,0,1,0,1,13,0.0762
 Hyundai Santa Fe 4WD AT,Pune,2015,100000,Second,13.01,2199,194.3,7,14.5,1,0,0,1,0,11,0.0884
-Hyundai Santro GLS II - Euro II,Bangalore,2012,43000,First,0.0,1497,98.6,5,3.25,0,0,1,0,1,14,0.0659
+Hyundai Santro GLS II - Euro II,Bangalore,2012,43000,First,18.286304565030147,1497,98.6,5,3.25,0,0,1,0,1,14,0.0659
 Maruti Wagon R AMT VXI,Kochi,2018,27413,First,20.51,998,67.0,5,5.18,0,0,1,1,0,8,0.0671
 Maruti Wagon R LX BSIII,Pune,2007,90000,Second,17.3,1061,64.0,5,1.24,0,0,1,0,1,19,0.0603
 Hyundai i20 Sportz 1.2,Kolkata,2013,40300,First,18.5,1197,82.85,5,2.8,0,0,1,0,1,13,0.0692
@@ -2949,7 +2949,7 @@ Maruti Swift VDI,Kochi,2015,53500,First,28.4,1248,74.0,5,5.36,1,0,0,0,1,11,0.059
 Maruti Ertiga VXI,Delhi,2014,17585,First,16.02,1373,93.7,7,6.35,0,0,1,0,1,12,0.0682
 Hyundai Verna 1.6 VTVT,Kolkata,2011,36226,First,17.01,1591,121.3,5,2.95,0,0,1,0,1,15,0.0762
 Land Rover Discovery Sport TD4 HSE,Coimbatore,2019,25899,First,12.63,2179,147.5,5,55.7,1,0,0,1,0,7,0.0677
-Hyundai Santro Xing GL,Kolkata,2009,60170,First,0.0,1086,62.0,5,1.15,0,0,1,0,1,17,0.0571
+Hyundai Santro Xing GL,Kolkata,2009,60170,First,18.286304565030147,1086,62.0,5,1.15,0,0,1,0,1,17,0.0571
 Mercedes-Benz New C-Class C 220 CDI Style,Hyderabad,2017,11200,First,19.27,2143,167.62,5,37.5,1,0,0,1,0,9,0.0782
 Hyundai i10 Magna 1.2,Kochi,2017,49045,First,20.36,1197,78.9,5,4.07,0,0,1,0,1,9,0.0659
 Volkswagen Polo Diesel Comfortline 1.2L,Kolkata,2012,45000,First,22.07,1199,73.9,5,2.99,1,0,0,0,1,14,0.0616
@@ -2997,7 +2997,7 @@ Honda Accord 2.4 MT,Mumbai,2010,47000,Second,12.8,2354,177.6,5,3.5,0,0,1,0,1,16,
 Hyundai Verna CRDi,Bangalore,2010,72010,First,16.8,1493,110.0,5,4.45,1,0,0,0,1,16,0.0737
 Maruti Omni E MPI STD BS IV,Jaipur,2015,15000,First,16.8,796,34.2,8,2.35,0,0,1,0,1,11,0.043
 Honda City i VTEC SV,Kolkata,2015,480000,First,17.4,1497,117.3,5,5.0,0,0,1,0,1,11,0.0784
-Audi A7 2011-2015 Sportback,Kolkata,2012,24720,Second,0.0,2967,241.4,5,28.0,1,0,0,1,0,14,0.0814
+Audi A7 2011-2015 Sportback,Kolkata,2012,24720,Second,18.286304565030147,2967,241.4,5,28.0,1,0,0,1,0,14,0.0814
 Ford Fiesta 1.4 ZXi Leather,Chennai,2007,75000,Second,16.6,1388,68.0,5,2.0,0,0,1,0,1,19,0.049
 Hyundai i20 1.4 Asta,Mumbai,2015,57000,First,22.54,1396,88.73,5,6.35,1,0,0,0,1,11,0.0636
 Mercedes-Benz E-Class E250 CDI Avantgrade,Kochi,2015,41057,First,13.0,2143,201.1,5,24.63,1,0,0,1,0,11,0.0938
@@ -3108,7 +3108,7 @@ Maruti Swift Dzire VDi,Jaipur,2010,130000,Second,19.3,1248,73.9,5,4.0,1,0,0,0,1,
 Maruti Ritz VDi,Hyderabad,2011,79000,First,23.2,1248,73.94,5,3.65,1,0,0,0,1,15,0.0592
 Mahindra XUV500 W8 4WD,Chennai,2013,78000,First,15.1,2179,140.0,7,10.75,1,0,0,0,1,13,0.0642
 Honda Brio S MT,Kochi,2015,49133,First,19.4,1198,86.8,5,4.51,0,0,1,0,1,11,0.0725
-Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016,22769,First,0.0,2987,165.0,5,49.22,1,0,0,1,0,10,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016,22769,First,18.286304565030147,2987,165.0,5,49.22,1,0,0,1,0,10,0.0552
 Tata Manza Club Class Quadrajet90 LS,Coimbatore,2014,54448,First,21.02,1248,88.8,5,3.7,1,0,0,0,1,12,0.0712
 Toyota Innova 2.5 V Diesel 7-seater,Hyderabad,2014,158793,First,12.8,2494,102.0,7,12.99,1,0,0,0,1,12,0.0409
 Maruti Swift VXI,Delhi,2015,62088,First,18.6,1197,85.8,5,4.15,0,0,1,0,1,11,0.0717
@@ -3168,7 +3168,7 @@ Honda Amaze S i-Dtech,Delhi,2015,58000,First,25.8,1498,98.6,5,4.45,1,0,0,0,1,11,
 Mercedes-Benz GLE 350d,Coimbatore,2018,29277,First,11.57,2987,254.79,5,59.65,1,0,0,1,0,8,0.0853
 Maruti Ritz VDi,Kochi,2015,57034,First,23.2,1248,73.94,5,4.38,1,0,0,0,1,11,0.0592
 Maruti Ciaz ZDi Plus SHVS,Kochi,2016,40810,First,28.09,1248,88.5,5,7.9,1,0,0,0,1,10,0.0709
-Hyundai Santro Xing GL,Bangalore,2008,35268,Second,0.0,1086,62.0,5,1.88,0,0,1,0,1,18,0.0571
+Hyundai Santro Xing GL,Bangalore,2008,35268,Second,18.286304565030147,1086,62.0,5,1.88,0,0,1,0,1,18,0.0571
 BMW 5 Series 520d Sedan,Mumbai,2008,81000,Second,18.48,1497,98.6,5,10.5,1,0,0,1,0,18,0.0659
 Maruti Baleno Delta CVT,Coimbatore,2018,34630,First,21.4,1197,83.1,5,7.29,0,0,1,1,0,8,0.0694
 Ford Fiesta Diesel Titanium Plus,Hyderabad,2012,45122,First,23.5,1498,88.7,5,6.0,1,0,0,0,1,14,0.0592
@@ -3413,7 +3413,7 @@ Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,42646,First,19.6,1461,108.45
 Volkswagen Polo 1.2 MPI Comfortline,Bangalore,2014,30000,Second,16.47,1198,74.0,5,5.25,0,0,1,0,1,12,0.0618
 BMW 5 Series 520d Sedan,Delhi,2012,90000,First,18.48,1497,98.6,5,14.5,1,0,0,1,0,14,0.0659
 Mercedes-Benz S Class 2005 2013 S 350 CDI,Bangalore,2009,98000,Second,13.5,2987,282.0,5,25.0,1,0,0,1,0,17,0.0944
-Hyundai Santro GLS II - Euro II,Kochi,2012,66400,First,0.0,1497,98.6,5,2.66,0,0,1,0,1,14,0.0659
+Hyundai Santro GLS II - Euro II,Kochi,2012,66400,First,18.286304565030147,1497,98.6,5,2.66,0,0,1,0,1,14,0.0659
 Jaguar XJ 3.0L Premium Luxury,Hyderabad,2012,50000,First,12.9,2993,271.23,4,45.0,1,0,0,1,0,14,0.0906
 Maruti Swift VDI,Jaipur,2015,63310,First,28.4,1248,74.0,5,5.1,1,0,0,0,1,11,0.0593
 Honda Amaze S i-Dtech,Delhi,2014,66000,First,25.8,1498,98.6,5,3.5,1,0,0,0,1,12,0.0658
@@ -4021,7 +4021,7 @@ Ford Ikon 1.3 Flair,Coimbatore,2008,59833,Fourth & Above,13.8,1299,70.0,5,1.97,0
 Volkswagen Polo Petrol Comfortline 1.2L,Kolkata,2013,30000,First,16.47,1198,73.9,5,2.8,0,0,1,0,1,13,0.0617
 Hyundai i10 Magna 1.2,Jaipur,2011,40496,First,20.36,1197,78.9,5,2.65,0,0,1,0,1,15,0.0659
 Chevrolet Enjoy 1.3 TCDi LTZ 8,Chennai,2014,45000,First,18.2,1248,73.74,8,4.75,1,0,0,0,1,12,0.0591
-Land Rover Range Rover 3.0 D,Mumbai,2003,75000,Second,0.0,1497,98.6,5,16.11,1,0,0,1,0,23,0.0659
+Land Rover Range Rover 3.0 D,Mumbai,2003,75000,Second,18.286304565030147,1497,98.6,5,16.11,1,0,0,1,0,23,0.0659
 Mercedes-Benz E-Class 200 Kompressor Elegance,Bangalore,2011,34000,Second,10.5,1796,157.7,5,19.0,0,0,1,1,0,15,0.0878
 Maruti Swift Vdi BSIII,Bangalore,2012,62000,First,17.8,1248,75.0,5,4.5,1,0,0,0,1,14,0.0601
 Mahindra XUV500 W8 4WD,Hyderabad,2012,123600,First,15.1,2179,140.0,7,8.25,1,0,0,0,1,14,0.0642
@@ -4103,7 +4103,7 @@ Hyundai i10 Asta,Kolkata,2011,43000,First,20.36,1197,78.9,5,2.49,0,0,1,0,1,15,0.
 Honda Brio VX AT,Hyderabad,2013,47000,First,16.5,1198,86.8,5,5.4,0,0,1,1,0,13,0.0725
 Maruti Wagon R AMT VXI,Jaipur,2017,34000,First,20.51,998,67.0,5,4.35,0,0,1,1,0,9,0.0671
 Audi Q3 30 TDI Premium FWD,Coimbatore,2018,22060,First,18.51,1968,147.51,5,32.73,1,0,0,1,0,8,0.075
-Mercedes-Benz M-Class ML 350 4Matic,Chennai,2012,63000,First,0.0,2987,165.0,5,26.0,1,0,0,1,0,14,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Chennai,2012,63000,First,18.286304565030147,2987,165.0,5,26.0,1,0,0,1,0,14,0.0552
 Maruti Wagon R LXI,Jaipur,2011,80000,First,18.9,998,67.1,5,2.5,0,0,1,0,1,15,0.0672
 Audi A4 35 TDI Premium Plus,Kochi,2015,13506,First,18.25,1968,187.74,5,21.66,1,0,0,1,0,11,0.0954
 Renault KWID RXT Optional,Mumbai,2016,16000,First,25.17,799,53.3,5,2.99,0,0,1,0,1,10,0.0667
@@ -4171,7 +4171,7 @@ Mahindra XUV500 W8 2WD,Bangalore,2013,71231,Second,16.0,2179,140.0,7,9.75,1,0,0,
 Skoda Superb Elegance 2.0 TDI CR AT,Hyderabad,2011,75000,First,17.2,1968,138.1,5,9.44,1,0,0,1,0,15,0.0702
 Maruti Wagon R VXI AMT,Mumbai,2018,1997,First,22.5,998,67.0,5,4.45,0,0,1,1,0,8,0.0671
 Maruti Vitara Brezza ZDi Plus Dual Tone,Pune,2016,47300,First,24.3,1248,88.5,5,8.85,1,0,0,0,1,10,0.0709
-Hyundai Santro Xing GL,Delhi,2012,61449,First,0.0,1086,62.0,5,2.15,0,0,1,0,1,14,0.0571
+Hyundai Santro Xing GL,Delhi,2012,61449,First,18.286304565030147,1086,62.0,5,2.15,0,0,1,0,1,14,0.0571
 Volkswagen Vento Diesel Comfortline,Kochi,2013,47910,First,20.54,1598,103.6,5,4.89,1,0,0,0,1,13,0.0648
 Volkswagen Polo 1.5 TDI Highline,Hyderabad,2015,62000,First,20.14,1498,88.8,5,6.25,1,0,0,0,1,11,0.0593
 Maruti Swift ZDi,Chennai,2012,65060,First,22.9,1248,74.0,5,4.8,1,0,0,0,1,14,0.0593
@@ -4278,7 +4278,7 @@ Honda City 1.5 S MT,Pune,2013,46000,First,17.0,1497,118.0,5,5.1,0,0,1,0,1,13,0.0
 Maruti Wagon R LXI,Mumbai,2010,12000,First,22.5,998,67.04,5,2.45,0,0,1,0,1,16,0.0672
 Skoda Superb 2.8 V6 AT,Kolkata,2005,13002,First,9.3,2771,193.1,5,3.25,0,0,1,1,0,21,0.0697
 Honda City i DTEC SV,Kolkata,2014,26000,First,26.0,1498,98.6,5,5.5,1,0,0,0,1,12,0.0658
-Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016,27833,First,0.0,2987,165.0,5,49.24,1,0,0,1,0,10,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016,27833,First,18.286304565030147,2987,165.0,5,49.24,1,0,0,1,0,10,0.0552
 Maruti Alto 800 LXI,Kochi,2016,51639,First,22.74,796,47.3,5,3.04,0,0,1,0,1,10,0.0594
 Hyundai i20 Magna 1.2,Delhi,2015,21000,First,18.6,1197,81.83,5,4.9,0,0,1,0,1,11,0.0684
 Ford Ecosport 1.5 DV5 MT Trend,Bangalore,2013,90000,First,22.7,1498,89.84,5,6.25,1,0,0,0,1,13,0.06
@@ -4312,7 +4312,7 @@ Tata Indica V2 eLS,Hyderabad,2016,80103,First,25.0,1396,69.0,5,1.8,1,0,0,0,1,10,
 Chevrolet Spark 1.0 LS,Kolkata,2007,42100,First,18.0,995,62.0,5,0.99,0,0,1,0,1,19,0.0623
 Hyundai Grand i10 1.2 Kappa Magna,Kolkata,2018,4500,First,18.9,1197,81.86,5,4.8,0,0,1,0,1,8,0.0684
 Toyota Fortuner 4x4 MT TRD Sportivo,Mumbai,2014,97000,First,12.55,2982,169.0,7,17.95,1,0,0,0,1,12,0.0567
-Mahindra E Verito D4,Chennai,2016,50000,First,18.158496150556033,72,41.0,5,13.0,0,1,0,1,0,10,0.5694
+Mahindra E Verito D4,Chennai,2016,50000,First,18.286304565030147,72,41.0,5,13.0,0,1,0,1,0,10,0.5694
 Hyundai Grand i10 1.2 Kappa Asta,Kochi,2017,51223,First,18.9,1197,81.86,5,5.66,0,0,1,0,1,9,0.0684
 Honda City 1.5 S MT,Delhi,2009,64000,First,17.0,1497,118.0,5,3.1,0,0,1,0,1,17,0.0788
 Hyundai Elite i20 Petrol Asta,Kochi,2016,56911,First,18.6,1197,81.86,5,6.54,0,0,1,0,1,10,0.0684
@@ -4551,7 +4551,7 @@ Hyundai Verna 1.6 CRDi AT SX,Kochi,2016,42876,First,19.08,1582,126.2,5,9.31,1,0,
 Maruti Alto LXi BSIII,Bangalore,2011,64000,First,19.7,796,46.3,5,2.39,0,0,1,0,1,15,0.0582
 Volkswagen Vento 1.6 Comfortline,Kochi,2018,20488,Second,16.09,1598,103.5,5,7.64,0,0,1,0,1,8,0.0648
 Maruti Baleno Zeta 1.2,Delhi,2016,21000,First,21.4,1197,83.1,5,6.21,0,0,1,0,1,10,0.0694
-Land Rover Freelander 2 TD4 SE,Jaipur,2012,119203,First,0.0,2179,115.0,5,16.5,1,0,0,1,0,14,0.0528
+Land Rover Freelander 2 TD4 SE,Jaipur,2012,119203,First,18.286304565030147,2179,115.0,5,16.5,1,0,0,1,0,14,0.0528
 Honda CR-V 2.0L 2WD AT,Kochi,2011,55987,First,13.7,1997,153.86,5,8.22,0,0,1,1,0,15,0.077
 Toyota Fortuner 2.8 2WD MT,Coimbatore,2017,72668,First,14.24,2755,174.5,7,28.85,1,0,0,0,1,9,0.0633
 Honda City V AT,Mumbai,2015,32000,First,15.6,1497,116.3,5,8.5,0,0,1,1,0,11,0.0777
@@ -4568,7 +4568,7 @@ Hyundai i20 Sportz Petrol,Kochi,2011,62020,First,17.0,1197,80.0,5,3.45,0,0,1,0,1
 Land Rover Freelander 2 SE,Pune,2014,85000,Second,12.39,2179,147.51,5,23.0,1,0,0,1,0,12,0.0677
 Hyundai Elite i20 Petrol Sportz,Kochi,2018,14223,First,18.6,1197,81.86,5,7.32,0,0,1,0,1,8,0.0684
 Honda Amaze S i-Vtech,Jaipur,2014,41210,First,18.0,1198,86.7,5,4.4,0,0,1,0,1,12,0.0724
-Mercedes-Benz M-Class ML 350 4Matic,Bangalore,2015,20000,First,0.0,2987,165.0,5,47.35,1,0,0,1,0,11,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Bangalore,2015,20000,First,18.286304565030147,2987,165.0,5,47.35,1,0,0,1,0,11,0.0552
 Maruti Alto 800 VXI,Coimbatore,2016,18043,First,22.74,796,47.3,5,4.12,0,0,1,0,1,10,0.0594
 Toyota Innova Crysta 2.8 ZX AT,Chennai,2016,80000,First,11.36,2755,171.5,7,19.5,1,0,0,1,0,10,0.0623
 Hyundai Grand i10 AT Asta,Hyderabad,2016,21000,First,18.9,1197,82.0,5,6.2,0,0,1,1,0,10,0.0685
@@ -4761,7 +4761,7 @@ Mercedes-Benz New C-Class C 220 CDI Elegance AT,Jaipur,2014,41000,First,14.84,21
 Honda Brio S MT,Jaipur,2015,46650,First,19.4,1198,86.8,5,4.25,0,0,1,0,1,11,0.0725
 Maruti Baleno Alpha CVT,Mumbai,2018,3000,First,21.4,1197,83.1,5,8.85,0,0,1,1,0,8,0.0694
 Hyundai EON Sportz,Coimbatore,2014,14799,First,21.1,814,55.2,5,4.14,0,0,1,0,1,12,0.0678
-Toyota Prius 2009-2016 Z4,Mumbai,2011,44000,First,18.158496150556033,1798,73.0,5,12.75,0,1,0,1,0,15,0.0406
+Toyota Prius 2009-2016 Z4,Mumbai,2011,44000,First,18.286304565030147,1798,73.0,5,12.75,0,1,0,1,0,15,0.0406
 Hyundai i20 1.4 CRDi Sportz,Hyderabad,2015,68525,First,23.0,1396,90.0,5,7.0,1,0,0,0,1,11,0.0645
 Ford Endeavour 3.2 Titanium AT 4X4,Hyderabad,2018,15000,First,10.91,3198,197.0,7,33.0,1,0,0,1,0,8,0.0616
 Honda City i-VTEC VX,Ahmedabad,2017,29000,First,17.4,1497,117.3,5,10.0,0,0,1,0,1,9,0.0784
@@ -4870,13 +4870,13 @@ Maruti Baleno Alpha 1.3,Kochi,2018,42243,First,27.39,1248,74.0,5,7.48,1,0,0,0,1,
 Hyundai Grand i10 CRDi Sportz,Jaipur,2016,57824,First,24.0,1120,70.0,5,5.5,1,0,0,0,1,10,0.0625
 Maruti Swift Dzire VDi,Jaipur,2011,110000,First,19.3,1248,73.9,5,3.5,1,0,0,0,1,15,0.0592
 Maruti Swift 1.3 VXi,Delhi,2006,63000,First,16.1,1497,98.6,5,1.6,0,0,1,0,1,20,0.0659
-Land Rover Freelander 2 TD4 HSE,Delhi,2013,72000,First,0.0,2179,115.0,5,15.5,1,0,0,1,0,13,0.0528
+Land Rover Freelander 2 TD4 HSE,Delhi,2013,72000,First,18.286304565030147,2179,115.0,5,15.5,1,0,0,1,0,13,0.0528
 Toyota Fortuner 3.0 Diesel,Hyderabad,2013,63455,First,11.5,2982,171.0,7,19.0,1,0,0,0,1,13,0.0573
 Honda Jazz VX Diesel,Hyderabad,2017,17151,First,27.3,1498,98.6,5,8.4,1,0,0,0,1,9,0.0658
 Maruti Vitara Brezza LDi Option,Pune,2016,31001,First,24.3,1248,88.5,5,7.25,1,0,0,0,1,10,0.0709
 Maruti Swift Dzire VDI,Kolkata,2014,42109,First,23.4,1248,74.0,5,4.25,1,0,0,0,1,12,0.0593
 Skoda Rapid 1.5 TDI AT Elegance,Delhi,2015,55000,Second,21.66,1498,103.52,5,5.7,1,0,0,1,0,11,0.0691
-Land Rover Freelander 2 TD4 SE,Hyderabad,2013,46000,Second,0.0,2179,115.0,5,26.0,1,0,0,1,0,13,0.0528
+Land Rover Freelander 2 TD4 SE,Hyderabad,2013,46000,Second,18.286304565030147,2179,115.0,5,26.0,1,0,0,1,0,13,0.0528
 Maruti Alto 800 LXI,Hyderabad,2013,30852,First,22.74,796,47.3,5,2.49,0,0,1,0,1,13,0.0594
 Volkswagen Polo Petrol Highline 1.2L,Pune,2011,65000,Second,16.47,1198,73.9,5,3.0,0,0,1,0,1,15,0.0617
 Honda City i DTEC SV,Delhi,2015,65000,First,26.0,1498,98.6,5,5.95,1,0,0,0,1,11,0.0658
@@ -5120,7 +5120,7 @@ Volkswagen Ameo 1.2 MPI Highline,Kochi,2017,14576,First,17.0,1198,73.75,5,6.69,0
 Honda BRV i-VTEC V CVT,Mumbai,2017,17000,First,16.0,1497,117.3,7,9.5,0,0,1,1,0,9,0.0784
 Hyundai i20 Asta,Mumbai,2009,28000,First,17.0,1197,80.0,5,2.65,0,0,1,0,1,17,0.0668
 Hyundai Santa Fe 4X4,Ahmedabad,2012,58200,First,14.66,2199,194.3,7,7.5,1,0,0,0,1,14,0.0884
-Honda City 1.5 GXI,Bangalore,2002,53000,Second,0.0,1497,98.6,5,1.85,0,0,1,0,1,24,0.0659
+Honda City 1.5 GXI,Bangalore,2002,53000,Second,18.286304565030147,1497,98.6,5,1.85,0,0,1,0,1,24,0.0659
 Maruti Celerio ZXI Optional AMT,Kochi,2018,12278,First,23.1,998,67.04,5,5.63,0,0,1,1,0,8,0.0672
 Hyundai Creta 1.6 SX,Coimbatore,2018,17665,First,15.8,1591,121.3,5,11.78,0,0,1,0,1,8,0.0762
 Tata Indica V2 DL BSIII,Hyderabad,2004,200000,Second,17.88,1396,52.8,5,0.85,1,0,0,0,1,22,0.0378
@@ -5161,7 +5161,7 @@ Maruti Baleno Zeta 1.2,Delhi,2018,13000,First,21.4,1197,83.1,5,6.6,0,0,1,0,1,8,0
 Maruti Dzire VXI,Pune,2013,74000,First,22.0,1197,81.8,5,4.5,0,0,1,0,1,13,0.0683
 Chevrolet Aveo U-VA 1.2 LT,Pune,2009,75000,Second,14.7,1150,76.0,5,1.0,0,0,1,0,1,17,0.0661
 Volkswagen Polo 1.5 TDI Highline,Chennai,2017,25000,First,20.14,1498,88.0,5,6.9,1,0,0,0,1,9,0.0587
-Land Rover Freelander 2 TD4 SE,Hyderabad,2012,139000,First,0.0,2179,115.0,5,16.75,1,0,0,1,0,14,0.0528
+Land Rover Freelander 2 TD4 SE,Hyderabad,2012,139000,First,18.286304565030147,2179,115.0,5,16.75,1,0,0,1,0,14,0.0528
 Audi Q5 30 TDI quattro Premium,Mumbai,2015,52000,First,14.16,1968,174.3,5,25.49,1,0,0,1,0,11,0.0886
 Audi A6 35 TDI Matrix,Chennai,2015,20000,First,18.53,1968,187.74,5,35.5,1,0,0,1,0,11,0.0954
 Hyundai Grand i10 1.2 CRDi Sportz,Kochi,2018,32663,First,24.0,1186,73.97,5,6.28,1,0,0,0,1,8,0.0624
@@ -5224,7 +5224,7 @@ Volkswagen Polo 1.2 MPI Comfortline,Mumbai,2014,15000,First,16.47,1198,74.0,5,3.
 Hyundai i20 Active 1.2 S,Mumbai,2015,12000,First,17.19,1197,81.86,5,5.8,0,0,1,0,1,11,0.0684
 BMW 5 Series 2013-2017 520d Luxury Line,Pune,2014,32000,First,18.12,1995,190.0,5,30.5,1,0,0,1,0,12,0.0952
 Maruti Swift Dzire LDI,Hyderabad,2017,44504,First,23.4,1248,74.0,5,5.6,1,0,0,0,1,9,0.0593
-Mercedes-Benz M-Class ML 350 4Matic,Ahmedabad,2012,66000,First,0.0,2987,165.0,5,23.0,1,0,0,1,0,14,0.0552
+Mercedes-Benz M-Class ML 350 4Matic,Ahmedabad,2012,66000,First,18.286304565030147,2987,165.0,5,23.0,1,0,0,1,0,14,0.0552
 Maruti Swift LDI,Jaipur,2015,39437,First,28.4,1248,74.0,5,5.15,1,0,0,0,1,11,0.0593
 Hyundai Verna 1.6 CRDI AT SX Option,Coimbatore,2017,36931,First,19.08,1582,126.2,5,9.48,1,0,0,1,0,9,0.0798
 Tata Nano XTA,Bangalore,2016,17800,Second,21.9,624,37.48,4,2.38,0,0,1,1,0,10,0.0601
@@ -5711,7 +5711,7 @@ Renault KWID RXT,Kochi,2017,32587,First,25.17,799,53.3,5,3.71,0,0,1,0,1,9,0.0667
 Ford Endeavour 4x2 XLT Limited Edition,Pune,2009,180000,First,10.9,2499,143.0,7,7.5,1,0,0,0,1,17,0.0572
 Maruti Vitara Brezza ZDi Plus Dual Tone,Kochi,2017,21248,First,24.3,1248,88.5,5,9.44,1,0,0,0,1,9,0.0709
 Mercedes-Benz E-Class 200 Kompressor Elegance,Delhi,2014,40000,First,10.5,1796,157.7,5,24.0,0,0,1,1,0,12,0.0878
-Mercedes-Benz C-Class Progressive C 220d,Ahmedabad,2019,4000,First,0.0,1950,194.0,5,35.0,1,0,0,1,0,7,0.0995
+Mercedes-Benz C-Class Progressive C 220d,Ahmedabad,2019,4000,First,18.286304565030147,1950,194.0,5,35.0,1,0,0,1,0,7,0.0995
 Audi A4 2.0 TDI Celebration Edition,Delhi,2011,57000,Second,16.55,1968,147.51,5,9.75,1,0,0,1,0,15,0.075
 Hyundai Grand i10 Asta,Kolkata,2014,37000,First,18.9,1197,82.0,5,3.45,0,0,1,0,1,12,0.0685
 Mitsubishi Pajero Sport 4X4,Jaipur,2014,70000,Second,13.5,2477,175.56,7,11.85,1,0,0,0,1,12,0.0709
@@ -5801,7 +5801,7 @@ Skoda Rapid Ultima 1.6 TDI Elegance,Hyderabad,2013,55000,First,20.5,1598,103.5,5
 Toyota Innova 2.5 V Diesel 8-seater,Delhi,2010,72000,First,12.8,2494,102.0,8,5.45,1,0,0,0,1,16,0.0409
 Mercedes-Benz GLA Class 200 Sport,Kochi,2018,17773,First,13.7,1991,183.0,5,26.76,0,0,1,1,0,8,0.0919
 Volkswagen Polo 1.5 TDI Highline,Hyderabad,2013,65000,Second,20.14,1498,88.0,5,3.5,1,0,0,0,1,13,0.0587
-Hyundai Santro Xing GL,Mumbai,2008,65000,Second,0.0,1086,62.0,5,1.39,0,0,1,0,1,18,0.0571
+Hyundai Santro Xing GL,Mumbai,2008,65000,Second,18.286304565030147,1086,62.0,5,1.39,0,0,1,0,1,18,0.0571
 Hyundai Verna 1.6 CRDi EX MT,Kolkata,2013,53280,First,22.32,1582,126.3,5,4.7,1,0,0,0,1,13,0.0798
 Volkswagen Ameo 1.2 MPI Highline,Ahmedabad,2016,34005,First,17.0,1198,73.75,5,5.75,0,0,1,0,1,10,0.0616
 Hyundai i20 Asta Option 1.2,Coimbatore,2017,14618,First,18.6,1197,81.83,5,8.11,0,0,1,0,1,9,0.0684
@@ -5838,7 +5838,7 @@ Maruti Swift Dzire Vdi BSIV,Delhi,2011,68000,First,19.3,1248,73.9,5,2.75,1,0,0,0
 Porsche Panamera Diesel,Hyderabad,2013,40000,Second,17.85,2967,300.0,4,45.0,1,0,0,1,0,13,0.1011
 Toyota Camry Hybrid,Mumbai,2015,33500,First,19.16,2494,158.2,5,19.75,0,0,1,1,0,11,0.0634
 Honda Brio 1.2 VX MT,Delhi,2013,33746,First,18.5,1198,86.8,5,3.2,0,0,1,0,1,13,0.0725
-Skoda Superb 3.6 V6 FSI,Hyderabad,2009,53000,First,0.0,3597,262.6,5,4.75,0,0,1,1,0,17,0.073
+Skoda Superb 3.6 V6 FSI,Hyderabad,2009,53000,First,18.286304565030147,3597,262.6,5,4.75,0,0,1,1,0,17,0.073
 Toyota Innova 2.5 V Diesel 7-seater,Coimbatore,2011,45004,First,12.8,2494,102.0,7,9.48,1,0,0,0,1,15,0.0409
 Honda Amaze VX i-DTEC,Coimbatore,2015,70602,First,25.8,1498,98.6,5,4.83,1,0,0,0,1,11,0.0658
 Maruti Swift VDI,Delhi,2014,27365,First,28.4,1248,74.0,5,4.75,1,0,0,0,1,12,0.0593
